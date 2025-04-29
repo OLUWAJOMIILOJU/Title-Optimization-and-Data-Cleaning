@@ -11,7 +11,7 @@ This project focuses on cleaning and optimizing messy marketing product titles t
 -  README.md — Project documentation
 
 ## How to Use
-  1. Clone or download this project: git clone https://github.com/OLUWAJOMILOJU/Title-Optimization-and-Data-Cleaning.git
+  1. Clone or download this project: git clone https://github.com/oluwajomiloju/Title-Optimization-and-Data-Cleaning.git
   2. Open the short_title.ipynb file using Google Colab
   3. Run the cells step by step to clean and optimize product titles.
   4. The final cleaned titles will be saved to: cleaned_product_short_title.csv
